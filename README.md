@@ -17,18 +17,16 @@ This repository is broken down into three main components:
 - **[devastmod-extension-main](./devastmod-extension-main)**: The DevastMod Browser Extension. The easiest way to run the mod logic directly in your browser. It injects the custom skins, global live chat, and removes all ads.
 
 ### Features
+
 - **Exclusive Skins**: Stand out with unique skins (Devil, Fury, Athlete).
 - **Global Live Chat**: Chat seamlessly with other DevastMod users.
 - **Ad-Free Experience**: Plays with disabled advertisements on browser load.
 
-![Main Menu](https://raw.githubusercontent.com/yamete-dev/DevastMod/main/media/main_menu.png)
+![In Game](https://raw.githubusercontent.com/yamete-dev/DevastMod/main/media/in_game.png)
 
 ### Extra Previews
+
 <div style="display: flex; gap: 10px;">
   <img src="https://raw.githubusercontent.com/yamete-dev/DevastMod/main/media/skins_menu.png" alt="Skins Menu" width="300" />
-  <img src="https://raw.githubusercontent.com/yamete-dev/DevastMod/main/media/skin_preview.png" alt="Skin Preview" width="300" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yamete-dev/DevastMod/main/media/in_game.png" alt="In-Game View" width="700" />
+   
 </div>
