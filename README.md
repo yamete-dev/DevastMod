@@ -4,9 +4,8 @@
 
 A modification suite and extension framework for devast.io created by Yamete and the HypR clan. This repository holds the modded web client, a bot-spawning API framework, and a browser extension.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yamete-dev/DevastMod/main/media/main_menu.png" alt="DevastMod Thumbnail" width="600" />
-</div>
+![Main menu](https://raw.githubusercontent.com/yamete-dev/DevastMod/main/media/main_menu.png)
+
 
 ## Overview
 
@@ -28,7 +27,4 @@ This repository is broken down into three main components:
 
 ### Extra Previews
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/yamete-dev/DevastMod/main/media/skins_menu.png" alt="Skins Menu" width="300" />
-   
-</div>
+![Skins Menu](https://raw.githubusercontent.com/yamete-dev/DevastMod/main/media/skins_menu.png)
