@@ -1,5 +1,7 @@
 # DevastMod
 
+[Official Thread](https://rankstone.org/forum/game-hacking/devast-io/devastmod-archive)
+
 A modification suite and extension framework for devast.io created by Yamete and the HypR clan. This repository holds the modded web client, a bot-spawning API framework, and a browser extension.
 
 <div align="center">
