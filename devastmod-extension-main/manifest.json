@@ -1,0 +1,17 @@
+{
+  "name": "DevastMod",
+  "description": "DevastMod from the OG HypR Clan | Live Chat, No Ads, New Skins",
+  "version": "2.0.0.2",
+  "author": "Yamete",
+  "manifest_version": 3,
+  "icons": {
+    "860": "favicon.png"
+  },
+  "content_scripts": [
+    {
+      "run_at": "document_start",
+      "matches": ["*://devast.io/*"],
+      "js": ["app.js"]
+    }
+  ]
+}
